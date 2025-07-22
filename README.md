@@ -1,7 +1,7 @@
 ## Lorena Peñas Piqueras ⚡ Software Engineer student
 
 - 🎓 Polytechnic University of Madrid
-- 🌱 Currently learning web development on my own
+- 🌱 Currently learning web development with @TheOdinProyect
 
 ## 📫 How to reach me
 
