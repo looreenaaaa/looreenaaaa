@@ -1,8 +1,8 @@
 ## Lorena Peñas Piqueras ⚡ Software Engineer student
 
 - 🎓 Polytechnic University of Madrid
-- 🌱 Currently learning web development with @TheOdinProject
-
+- 🌱 Currently learning web development with The Odin Project
+  
 ## 📫 How to reach me
 
 [![Email](https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lorenappff@gmail.com)
