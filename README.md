@@ -1,7 +1,7 @@
 ## Lorena Peñas Piqueras ⚡ Software Engineer student
 
-- 🎓 Polytechnic University of Madrid
-- 🌱 Currently learning web development with The Odin Project
+🎓 Polytechnic University of Madrid
+🌱 Currently learning web development with The Odin Project
   
 ## 📫 How to reach me
 
